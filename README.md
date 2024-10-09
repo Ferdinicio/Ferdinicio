@@ -69,16 +69,14 @@
 </br>
 </div>
 
-✅ Java 8,11 and 20 Training ( DevSuperior )
+✅ Java , JPA, EJB, HIbernate
 </br>
 ✅ Spring Boot 3: Develop a Rest API in Java
 </br>
-⬜ Oracle SQL Specialist: From Basic to Advanced - 2022
+✅ PL/SQL Oracle
 </br>
-⬜ Persistence with JPA: Hibernate
+✅ PHP
+</br>
+✅ VueJS
 <div align="right">
-  Subtitle
-  </br>
-✅ Done
-⬜ Studying
 </div>
