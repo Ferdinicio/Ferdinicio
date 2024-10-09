@@ -32,10 +32,7 @@
   Shall we know my trajectory?
 </h1>
 </div>
-<p align="justify">
-I'm a developer of web systems and programming applications in software and technology. I work in the areas of: backend with java programming language and springboot framework; frontend from building screens and pages with FIGMA to code development using languages ( JS, TS(developing skills), CSS, SASS, SCSS using Angular, Quasar and Vue3 frameworks; Database with: SQL, PLSQL , APEX Oracle(developing skills).
-Here on the platform you will have access to some projects carried out during my studies, professional and personal trajectory.
-</p> 
+<p align="justify"></p> 
 
 ---
 <div align="center">
@@ -63,10 +60,6 @@ Here on the platform you will have access to some projects carried out during my
 </h2>
 </br>
 </div>
-
-✅ 👨‍💻 - Analysis and systems development ( UNIFAMETRO )
-</br>
-⬜ 👨‍🎓 - Postgraduate Degree in Software Engineering
 
 <div id="msg" align="center">
 <h2>
