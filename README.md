@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/ferdiniciofernandes/" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://w.app/Ferdinicio" target="_blank" rel="noopener noreferrer"> 
+  <a href="https://wa.me/5584999125921" target="_blank" rel="noopener noreferrer"> 
     <img src="https://img.shields.io/badge/Whatsapp-geen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
 </div>
