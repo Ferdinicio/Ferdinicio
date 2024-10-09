@@ -54,10 +54,6 @@
 </p>
 </br>
 <div id="msg" align="center">
-<h2>
-  <img src="https://media.giphy.com/media/fIwbvxHSLmyEi6Jux2/giphy.gif" width="30px"/>
-  Academic formations and highlighted courses:
-</h2>
 </br>
 </div>
 
